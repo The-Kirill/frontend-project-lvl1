@@ -3,11 +3,11 @@ name: Node CI
 
 # Trigger the workflow on push or pull request
 on:
-  - push
-  - pull_request
+    push:
+      branches: [ main ]
 
 jobs:
-  build:
+  my-job:
 
     # The type of machine to run the job on
     runs-on: ubuntu-latest
