@@ -6,4 +6,4 @@
 Even-game
 
 Запуск игры brain-even
-https://asciinema.org/a/0ImtXE6MEXGUZl8Vi6q4sp9fV
+[![asciicast](https://asciinema.org/a/0ImtXE6MEXGUZl8Vi6q4sp9fV.svg)](https://asciinema.org/a/0ImtXE6MEXGUZl8Vi6q4sp9fV)
