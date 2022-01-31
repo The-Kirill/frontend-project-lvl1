@@ -7,3 +7,9 @@ Even-game
 
 Запуск игры brain-even
 [![asciicast](https://asciinema.org/a/0ImtXE6MEXGUZl8Vi6q4sp9fV.svg)](https://asciinema.org/a/0ImtXE6MEXGUZl8Vi6q4sp9fV)
+
+Calc-game
+
+Запуск игры brain-calc
+[![asciicast](https://asciinema.org/a/K7zIWEogII8VoKAMOYUpszdRu.svg)](https://asciinema.org/a/K7zIWEogII8VoKAMOYUpszdRu)
+
