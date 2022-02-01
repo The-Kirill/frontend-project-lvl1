@@ -13,3 +13,7 @@ Calc-game
 Запуск игры brain-calc
 [![asciicast](https://asciinema.org/a/K7zIWEogII8VoKAMOYUpszdRu.svg)](https://asciinema.org/a/K7zIWEogII8VoKAMOYUpszdRu)
 
+Gcd-game
+
+Запуск игры gcd-game
+[![asciicast](https://asciinema.org/a/cda1JeuHAivYHQaJHwhF9IH0D.svg)](https://asciinema.org/a/cda1JeuHAivYHQaJHwhF9IH0D)
