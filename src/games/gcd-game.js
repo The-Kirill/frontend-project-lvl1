@@ -13,7 +13,7 @@ const getCorrectAnswerAndQuestion = () => {
   const num1 = getRandomIntInclusive(1, 50);
   const num2 = getRandomIntInclusive(1, 50);
   const question = `${num1} ${num2}`;
-  const correctAnswer = getGcd(num1, num2).toString();
-  return [question, correctAnswer];
+  const correctAnswer = getGcd(num1, num2);
+  return [question, String(correctAnswer)];
 };
 export { rule, getCorrectAnswerAndQuestion };
