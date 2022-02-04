@@ -22,3 +22,8 @@ Progression-game
 
 Запуск игры progression-game
 [![asciicast](https://asciinema.org/a/eDshFDlKeXdy8nnnvaU7QGSag.svg)](https://asciinema.org/a/eDshFDlKeXdy8nnnvaU7QGSag)
+
+Prime-game
+
+Запуск игры prime-game
+[![asciicast](https://asciinema.org/a/sJegPjG5QpjT06pjrhhozk2so.svg)](https://asciinema.org/a/sJegPjG5QpjT06pjrhhozk2so)
