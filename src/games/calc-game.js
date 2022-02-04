@@ -14,7 +14,7 @@ const getCalculate = () => {
   const randomNumberOne = getRandomIntInclusive(1, 50);
   const randomNumberTwo = getRandomIntInclusive(1, 50);
   const randomOperator = getRandomOperator();
-  const question = ` ${randomNumberOne} ${randomOperator} ${randomNumberTwo}`;
+  const question = `${randomNumberOne}${randomOperator}${randomNumberTwo}`;
   let correctAnswer;
   switch (randomOperator) {
     case '+':
