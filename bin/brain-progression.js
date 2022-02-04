@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-import { rule, getCorrectAnswerAndQuestion } from '../src/games/progression-game.js';
+// eslint-disable-next-line import/extensions
+import { rule, getCorrectAnswerAndQuestion } from '../src/games/progression-game';
 import startGame from '../src/index.js';
 
 startGame(rule, getCorrectAnswerAndQuestion);
