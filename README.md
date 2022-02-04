@@ -17,3 +17,8 @@ Gcd-game
 
 Запуск игры gcd-game
 [![asciicast](https://asciinema.org/a/cda1JeuHAivYHQaJHwhF9IH0D.svg)](https://asciinema.org/a/cda1JeuHAivYHQaJHwhF9IH0D)
+
+Progression-game
+
+Запуск игры progression-game
+[![asciicast](https://asciinema.org/a/eDshFDlKeXdy8nnnvaU7QGSag.svg)](https://asciinema.org/a/eDshFDlKeXdy8nnnvaU7QGSag)
