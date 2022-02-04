@@ -11,7 +11,8 @@ const startGame = (rule, getRaundData) => {
     console.log(`Question: ${question}`);
     const yourAnswer = readlineSync.question('Yor answer: ');
     if (correctAnswer !== yourAnswer) {
-      console.log(`'${yourAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.\nLet's try again, ${yourName}!`);
+      console.log(`'${yourAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
+      console.log(`Let's try again, ${yourName}!`);
       return;
     }
     console.log('Correct!');
